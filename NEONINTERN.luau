@@ -1,18 +1,13 @@
 --[[
 
-	Neon Interface Suite
-	by Sirius
-
-	shlex | Designing + Programming
-	iRay  | Programming
-	Max   | Programming
+	
 
 ]]
 
 
 
 local InterfaceBuild = '1VEX'
-local Release = "Build 1.6"
+local Release = "Build 1"
 local NeonFolder = "Neon"
 local ConfigurationFolder = NeonFolder.."/Configurations"
 local ConfigurationExtension = ".rfld"
